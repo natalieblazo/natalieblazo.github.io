@@ -1,0 +1,42 @@
+body {
+	text-align: center;
+	color: #690000;
+	background-color: #bfb7b7;
+	border-style: dotted;
+	border-top-color: #dd2a2a;
+	border-right-color: #dd762a;
+	border-bottom-color: #ddc22a;
+	border-left-color: #dd762a;
+	padding: 100px;
+	line-height: 25px;
+}
+
+h1 {
+	color: black;
+	font-weight: bold;
+	font-size: 60px;
+}
+
+h3 {
+	padding:50px;
+}
+
+#tagline {
+	color: #9d7272;
+}
+
+h4 {
+	color: #9d7272;
+}
+
+#maintext {
+	text-align: justify;
+}
+
+p {
+	font-family: helvetica;
+}
+
+
+
+
