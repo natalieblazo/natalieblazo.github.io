@@ -8,7 +8,41 @@ body {
 	border-bottom-color: #ddc22a;
 	border-left-color: #dd762a;
 	padding: 100px;
+	padding-top: 50px;
 	line-height: 25px;
+}
+
+.navlinks {
+    list-style-type: none;
+    margin: 0;
+    padding-bottom: 50px;
+    overflow: hidden;    
+}
+
+.navlinks li {
+
+	display: inline-block;
+
+}
+
+
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #ddc22a;
+    background-color: #690000;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+a:hover, a:active {
+    background-color: #9d7272;
 }
 
 h1 {
