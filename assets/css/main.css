@@ -1774,6 +1774,22 @@
 			padding-left: 0.25em;
 		}
 
+/* Google slide */
+
+iframe {
+	display: ;
+	margin: 40px;
+	float: center;
+
+}
+
+h3.spare {
+	text-align: center;
+	margin: auto;
+	vertical-align: baseline;
+}
+
+
 /* Form */
 
 	form label {
@@ -1946,6 +1962,14 @@
 
 /* BOX TRANSITIONS */
 
+iframe  {
+	background: #fff;
+	font-size: 0.8em;
+	float: right;
+	display: block;
+
+	
+}
 
 /* Icons */
 
