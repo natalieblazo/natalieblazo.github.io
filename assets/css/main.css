@@ -2209,6 +2209,7 @@
 
 			#main > section.three.container {
 				background-color: #ecf1f1;
+				text-align: left;
 			}
 
 			#main > section.four {
@@ -2218,10 +2219,6 @@
 			
 			h3.about-me-header {
 				font-style: italic;
-			}
-
-			 .about {
-				text-align: center;
 			}
 
 			div.about-me {	
