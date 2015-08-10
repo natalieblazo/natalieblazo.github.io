@@ -1734,7 +1734,6 @@
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
-			margin-bottom: 2em;
 		}
 
 		.image.left {
@@ -1959,9 +1958,9 @@
 				font-size: 1em;
 			}
 
-	.name-subhead {
-		margin-top: 50px;
-	}		
+			.name-subhead {
+			margin-top: 50px;
+			}				
 
 /* Icons */
 
@@ -2215,20 +2214,12 @@
 				background-color: #e8edec;
 				text-align: center;
 			}
-			
-			h3.about-me-header {
-				font-style: italic;
+
+			.medical-screens > img {
+				max-width: 788px;
+
 			}
 
-			 .about {
-				text-align: center;
-			}
-
-			div.about-me {	
-    		-webkit-column-count: 2; /* Chrome, Safari, Opera */
-    		-moz-column-count: 2; /* Firefox */
-    		column-count: 2;
-    		}
 
 
 /* Wide */

@@ -1725,16 +1725,12 @@
 				height: 48px;
 			}
 
-		.image.fit {
-			display: block;
-			width: 100%;
-		}
+
 
 		.image.featured {
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
-			margin-bottom: 2em;
 		}
 
 		.image.left {
@@ -1959,10 +1955,6 @@
 				font-size: 1em;
 			}
 
-	.name-subhead {
-		margin-top: 50px;
-	}		
-
 /* Icons */
 
 	.icon {
@@ -2103,7 +2095,7 @@
 /* Footer */
 
 	#footer {
-		margin-left: 375px;
+		
 		text-align: center;
 		background-color: #dce3e2;
 		padding: 3em 0 4em 0;
@@ -2141,6 +2133,7 @@
 			overflow: hidden;
 			padding: 4em 0;
 			box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
+			text-align: center;
 			background-image: url("images/overlay.png");
 		}
 
@@ -2196,40 +2189,20 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url(https://media.licdn.com/media//AAEAAQAAAAAAAAOVAAAAJDY2N2FkNjg4LTM1ODgtNGRlOC05YjY3LWU4Y2RiMjkzZGYxMg.jpg);
-				text-align: center;
-
+				background-image: url(http://i19.photobucket.com/albums/b194/NeKoKoDiTtO1313/dragonbanner.png);
 			}
 
 			#main > section.two {
 				background-color: #f5fafa;
-				text-align: center;
-
 			}
 
-			#main > section.three.container {
+			#main > section.three {
 				background-color: #ecf1f1;
 			}
 
 			#main > section.four {
 				background-color: #e8edec;
-				text-align: center;
 			}
-			
-			h3.about-me-header {
-				font-style: italic;
-			}
-
-			 .about {
-				text-align: center;
-			}
-
-			div.about-me {	
-    		-webkit-column-count: 2; /* Chrome, Safari, Opera */
-    		-moz-column-count: 2; /* Firefox */
-    		column-count: 2;
-    		}
-
 
 /* Wide */
 
@@ -2249,15 +2222,11 @@
 
 		/* Footer */
 
-			#footer {
-				margin-left: 300px;
-			}
+
 
 		/* Main */
 
-			#main {
-				margin-left: 300px;
-			}
+			
 
 	}
 
@@ -2303,6 +2272,10 @@
 				margin-bottom: 20px;
 			}
 
+			.name-subhead {
+			margin-top: 50px;
+			}	
+
 		/* Header */
 
 			#header {
@@ -2332,9 +2305,7 @@
 
 		/* Footer */
 
-			#footer {
-				margin-left: 20%;
-			}
+	
 
 		/* Main */
 
@@ -2407,7 +2378,7 @@
 				width: 275px;
 				z-index: 10002;
 				width: 275px;
-				background: #222729 url("images/overlay.png");
+				background: #222729 url("images/dragonbanner.png");
 				box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
 			}
 
