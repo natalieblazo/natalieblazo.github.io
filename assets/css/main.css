@@ -908,7 +908,7 @@
     }
 
     .row {
-      margin: -20px 0 -1px -20px;
+      margin: 0px 0 -1px 0px;
     }
 
     .row.uniform > * {
