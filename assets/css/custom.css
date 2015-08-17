@@ -2,9 +2,15 @@
   .grid {
     margin: 0;
     max-width: 100%;
+    max-height: auto;
   }
 
   .grid figure {
     float: none;
   }
+}
+
+figcaption < p {
+  margin: 0 auto;
+  text-align: center;
 }
