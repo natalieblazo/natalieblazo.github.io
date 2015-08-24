@@ -214,7 +214,7 @@
 		}
 
 	}
-		
+
 	.row {
 		border-bottom: solid 1px transparent;
 		-moz-box-sizing: border-box;
@@ -1599,7 +1599,7 @@
 		h2.alt {
 			color: white;
   			text-shadow:
-   			-1px -1px 0 #000,  
+   			-1px -1px 0 #000,
    			1px -1px 0 #000,
     		-1px 1px 0 #000,
      		1px 1px 0 #000;
@@ -1608,7 +1608,7 @@
 			h2.alt strong {
 				color: white;
   				text-shadow:
-   				-1px -1px 0 #000,  
+   				-1px -1px 0 #000,
    				1px -1px 0 #000,
     			-1px 1px 0 #000,
      			1px 1px 0 #000;
@@ -1960,7 +1960,7 @@
 
 			.name-subhead {
 			margin-top: 50px;
-			}				
+			}
 
 /* Icons */
 
@@ -2019,7 +2019,7 @@
 		}
 
 			#header .icons a {
-				color: #41484c;
+				color: #6c767b;
 				-moz-transition: color 0.35s ease-in-out;
 				-webkit-transition: color 0.35s ease-in-out;
 				-ms-transition: color 0.35s ease-in-out;
@@ -2153,7 +2153,7 @@
 					font-weight: bold;
 					font-family: 'Bangers', sans-serif;
 					letter-spacing: 5px;
-					
+
 
 				}
 
@@ -2163,7 +2163,7 @@
 					font-weight: bold;
 					font-family: 'Bangers', sans-serif;
 					letter-spacing: 5px;
-					
+
 				}
 
 				#main > section.dark a {
@@ -2178,7 +2178,7 @@
 					#subhead {
 						color: white;
 						text-shadow:
-					   	-1px -1px 0 #000,  
+					   	-1px -1px 0 #000,
 					   	1px -1px 0 #000,
 					    -1px 1px 0 #000,
 					    1px 1px 0 #000;
