@@ -908,7 +908,7 @@
     }
 
     .row {
-      margin: 0 auto;
+      margin: -20px 0 -1px -20px;
     }
 
     .row.uniform > * {
@@ -1599,19 +1599,19 @@
     h2.alt {
       color: white;
         text-shadow:
-         -1px -1px 0 #000,
-         1px -1px 0 #000,
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
         -1px 1px 0 #000,
-         1px 1px 0 #000;
+        1px 1px 0 #000;
     }
 
       h2.alt strong {
         color: white;
           text-shadow:
-           -1px -1px 0 #000,
-           1px -1px 0 #000,
+          -1px -1px 0 #000,
+          1px -1px 0 #000,
           -1px 1px 0 #000,
-           1px 1px 0 #000;
+          1px 1px 0 #000;
       }
 
   h3 {
@@ -1734,7 +1734,6 @@
       display: block;
       width: 100%;
       margin: 0 0 2em 0;
-      margin-bottom: 2em;
     }
 
     .image.left {
@@ -1959,9 +1958,9 @@
         font-size: 1em;
       }
 
-  .name-subhead {
-    margin-top: 50px;
-  }
+      .name-subhead {
+      margin-top: 50px;
+      }
 
 /* Icons */
 
@@ -2179,8 +2178,8 @@
           #subhead {
             color: white;
             text-shadow:
-               -1px -1px 0 #000,
-               1px -1px 0 #000,
+              -1px -1px 0 #000,
+              1px -1px 0 #000,
               -1px 1px 0 #000,
               1px 1px 0 #000;
               font-family: 'Bangers', sans-serif;
@@ -2209,7 +2208,6 @@
 
       #main > section.three.container {
         background-color: #ecf1f1;
-        text-align: left;
       }
 
       #main > section.four {
@@ -2217,19 +2215,11 @@
         text-align: center;
       }
 
-      h3.about-me-header {
-        font-style: italic;
+      .medical-screens > img {
+        max-width: 788px;
+
       }
 
-      div.about-me {
-        -webkit-column-count: 2; /* Chrome, Safari, Opera */
-        -moz-column-count: 2; /* Firefox */
-        column-count: 2;
-        }
-
-        .about {
-          text-align: center;
-        }
 
 
 /* Wide */
