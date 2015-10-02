@@ -13,4 +13,5 @@
 figcaption < p {
   margin: 0 auto;
   text-align: center;
+  overflow: hidden;
 }
