@@ -1,0 +1,13 @@
+
+.restart-screens-all > img {
+        max-width: 788px;
+        max-height: auto;
+      }
+
+.restart-screens > img {
+        max-width: 788px;
+        max-height: auto;
+        margin-bottom: 10px;
+        overflow: hidden;
+
+      }
