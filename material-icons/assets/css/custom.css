@@ -1,0 +1,8 @@
+.icon-images > img {
+  max-width: 788px;
+  max-height: auto;
+  margin-bottom: 10px;
+  overflow: hidden;
+  height: auto;
+  width: 100%;
+}

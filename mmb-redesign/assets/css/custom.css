@@ -1,3 +1,5 @@
 .mmb-screens > img {
         max-width: 788px;
+        height: auto;
+        width: 100%;
       }

@@ -1,3 +1,4 @@
-#pdf object{
-display: block;
+iframe {
+height: 480px auto;
+width: 100%;
 }
