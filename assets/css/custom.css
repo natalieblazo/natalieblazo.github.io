@@ -15,3 +15,12 @@ figcaption < p {
   text-align: center;
   overflow: hidden;
 }
+
+iframe {
+  max-width: 100%;
+  overflow: hidden;
+  min-height: 300px;
+  min-width: 450px;
+  margin: 0 auto;
+  display: block;
+}
