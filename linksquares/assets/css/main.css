@@ -1727,8 +1727,7 @@
 
 		.image.fit {
 			display: block;
-			max-width: 100%;
-			margin: 0 auto;
+			width: 100%;
 		}
 
 		.image.featured {
@@ -2196,7 +2195,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url(https://media.licdn.com/media//AAEAAQAAAAAAAAOVAAAAJDY2N2FkNjg4LTM1ODgtNGRlOC05YjY3LWU4Y2RiMjkzZGYxMg.jpg);
+				background-image: url(http://i.imgur.com/GxzLrsz.jpg);
 				text-align: center;
 
 			}
@@ -2214,6 +2213,11 @@
 			#main > section.four {
 				background-color: #e8edec;
 				text-align: center;
+			}
+
+			.medical-screens > img {
+				max-width: 788px;
+
 			}
 
 
