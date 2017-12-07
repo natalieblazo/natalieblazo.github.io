@@ -2219,7 +2219,7 @@
 
       h3.about-me-header {
         font-style: italic;
-        text-align: center;
+        text-align: left;
       }
 
       div.about-me {
@@ -2230,7 +2230,7 @@
         }
 
         .about {
-          text-align: left;
+          text-align: center;
         }
 
 
